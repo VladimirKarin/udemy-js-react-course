@@ -42,4 +42,4 @@ console.log('It works: ' + oldVariable);
 
 aStrict = 15;
 console.log(aStrict);
-// Without 'use strict' - it will work. With it- won't.
+// Without 'use strict' - it will work, with it- won't.
